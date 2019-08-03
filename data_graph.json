@@ -7,7 +7,7 @@
   "links": [
     {"source": "Myriel", "target": "CountessdeLo", "value": 1},
     {"source": "Myriel", "target": "Mme.Hucheloup", "value": 8},
-    {"source": "Mme.Hucheloup", "target": "CountessdeLo", "value": 10},
+    {"source": "Mme.Hucheloup", "target": "CountessdeLo", "value": 10}
     
   ]
 }
