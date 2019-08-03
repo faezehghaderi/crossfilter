@@ -2,7 +2,7 @@
   "nodes": [
     {"id": "Myriel", "group": 1},
     {"id": "CountessdeLo", "group": 1},
-    {"id": "Mme.Hucheloup", "group": 2}
+    {"id": "Mme.Hucheloup", "group": 1}
   ],
   "links": [
     {"source": "Myriel", "target": "CountessdeLo", "value": 1},
