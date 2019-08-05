@@ -1,1 +1,11 @@
-{"Nodes": [{"id": "4", "group": 1}, {"id": "4.198", "group": 1}, {"id": "5.134", "group": 1}, {"id": "6.07", "group": 1}, {"id": "6.695", "group": 1}, {"id": "7.943", "group": 1}, {"id": "8.255", "group": 1}, {"id": "9.815", "group": 1}, {"id": "9.815", "group": 1}, {"id": "11.376", "group": 1}, {"id": "11.688", "group": 1}, {"id": "12.936", "group": 1}, {"id": "13.56", "group": 1}, {"id": "14.497", "group": 1}, {"id": "15.433", "group": 1}, {"id": "16.057", "group": 1}, {"id": "17.305", "group": 1}, {"id": "18", "group": 1}], "Links": [{"source": "4", "target": "4.198", "value": 5}, {"source": "4.198", "target": "6.07", "value": 5}, {"source": "5.134", "target": "6.695", "value": 5}, {"source": "6.07", "target": "7.943", "value": 5}, {"source": "6.695", "target": "8.255", "value": 5}, {"source": "7.943", "target": "9.815", "value": 5}, {"source": "8.255", "target": "9.815", "value": 5}, {"source": "9.815", "target": "11.688", "value": 5}, {"source": "9.815", "target": "11.376", "value": 5}, {"source": "11.376", "target": "12.936", "value": 5}, {"source": "11.688", "target": "13.56", "value": 5}, {"source": "12.936", "target": "14.497", "value": 5}, {"source": "13.56", "target": "15.433", "value": 5}, {"source": "14.497", "target": "16.057", "value": 5}, {"source": "15.433", "target": "17.305", "value": 5}, {"source": "16.057", "target": "17.617", "value": 5}, {"source": "17.305", "target": "18", "value": 5}, {"source": "18", "target": "None", "value": 5}]}
+{"Nodes": [{"id": "4", "group": 1},
+           {"id": "4.198", "group": 1}, 
+           {"id": "5.134", "group": 1}, 
+           {"id": "6.07", "group": 1},
+           {"id": "6.695", "group": 1} 
+         ],
+ "Links": 
+ [{"source": "4", "target": "4.198", "value": 5}, 
+  {"source": "4.198", "target": "6.07", "value": 5},
+  {"source": "5.134", "target": "6.695", "value": 5}]
+}
