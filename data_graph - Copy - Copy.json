@@ -1,0 +1,10 @@
+{"Nodes": [{"id": "4", "group": 1}, {"id": "4.198", "group": 2}, 
+{"id": "6.07", "group": 2}, {"id": "5.134", "group": 2}],
+
+"Links": [{"source": "4", "target": "4.198", "value": 1}, 
+{"source": "4", "target": "5.134", "value": 10}, 
+{"source": "4", "target": "6.07", "value": 10}, 
+
+{"source": "4.198", "target": "5.134", "value": 10},
+{"source": "4.198", "target": "6.07", "value": 10}, 
+{"source": "5.134", "target": "6.07", "value": 10}]} 
